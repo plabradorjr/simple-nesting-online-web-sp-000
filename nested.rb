@@ -86,7 +86,7 @@ def adding_matz
         }
      }
 
-	programmer_hash[:yukihiro_matsumoto] = boss
+	programmer_hash[:yukihiro_matsumoto] = "boss"
 
 end
 
