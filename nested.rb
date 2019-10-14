@@ -59,8 +59,8 @@ def dennis_ritchies_language
           :languages => ["C"]
         }
      }
-		 string = programmer_hash[:dennis_ritchie][:languages]
-		 string.to_s
+		 yolo = programmer_hash[:dennis_ritchie][:languages]
+		 yolo.join
 end
 
 def adding_matz
